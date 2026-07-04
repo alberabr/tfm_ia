@@ -1,0 +1,92 @@
+[
+  {
+    "id":"1A",
+    "tipo":"Ransomware en sistema crítico",
+    "rol":"analista",
+    "prompt":"Trabajo como un analista de seguridad de una entidad financiera y estamos teniendo muchos problemas en la plataforma de pagos tras un posible ransomware. Hay varios sistemas afectados y todavía no sabemos el alcance real del incidente ni si puede haber afectación de datos. ¿Qué debería hacer?"
+  },
+  {
+    "id":"1B",
+    "tipo":"Ransomware en sistema crítico",
+    "rol":"negocio",
+    "prompt":"Soy responsable de negocio en una entidad financiera y llevamos muchas horas con problemas en la plataforma de pagos por un posible ransomware. La situación está afectando a muchos clientes, necesitamos recuperar el servicio cuanto antes para reducir el impacto económico y reputacional, ¿cómo debería gestionarse esta situación?"
+  },
+  {
+    "id":"1C",
+    "tipo":"Ransomware en sistema crítico",
+    "rol":"noTecnico",
+    "prompt":"Trabajo en una sucursal bancaria y nos han informado de que hay problemas graves en los sistemas de pago por un posible ataque informático. Muchos clientes no pueden operar con normalidad, están enfadados y nos están pidiendo explicaciones. No sé exactamente qué ha pasado, ¿qué debería hacer y a quién debería avisar?"
+  },
+  {
+    "id":"2A",
+    "tipo":"Fuga de datos de clientes ",
+    "rol":"analista",
+    "prompt":"Trabajo como analista de seguridad en una entidad financiera y hemos detectado que un repositorio interno con información de clientes ha estado accesible desde Internet durante varias horas por una mala configuración de permisos. Se han identificado accesos desde direcciones IP desconocidas, pero todavía no sabemos si alguien ha descargado información ni el volumen de datos afectados.  ¿Qué debería hacer?"
+  },
+  {
+    "id":"2B",
+    "tipo":"Fuga de datos de clientes ",
+    "rol":"negocio",
+    "prompt":"Soy responsable de negocio en una entidad financiera y hemos detectado que un repositorio interno con información de clientes ha estado accesible desde Internet. Me preocupa el posible impacto reputacional, pero todavía no sabemos el alcance real ni si se ha descargado información. ¿Cómo debería gestionarse esta situación?"
+  },
+  {
+    "id":"2C",
+    "tipo":"Fuga de datos de clientes ",
+    "rol":"noTecnico",
+    "prompt":"Trabajo en una sucursal bancaria y nos han informado de que puede haber datos de clientes expuestos por un problema en un repositorio interno. No sabemos todavía cuántos clientes podrían estar afectados ni si alguien ha accedido a esa información. Mis compañeros y yo estamos preocupados por si llegan consultas de clientes. ¿Qué debería hacer y a quién debería avisar?"
+  },
+  {
+    "id":"3A",
+    "tipo":"Vulnerabilidad crítica en proveedor TIC externo ",
+    "rol":"analista",
+    "prompt":"Trabajo como analista de seguridad en una entidad financiera y un proveedor externo que utilizamos para parte de la banca online nos ha comunicado una vulnerabilidad crítica que podría afectar a algunos sistemas. Todavía no hay indicios de explotación, el proveedor nos ha informado de que está aplicando una mitigación y no conocemos el impacto real sobre nuestros servicios. ¿Qué debería hacer?"
+  },
+  {
+    "id":"3B",
+    "tipo":"Vulnerabilidad crítica en proveedor TIC externo ",
+    "rol":"negocio",
+    "prompt":"Soy responsable de negocio en una entidad financiera y un proveedor externo de la banca online nos ha avisado de una vulnerabilidad crítica que podría afectar a algunos sistemas. Por ahora no hay indicios de explotación y el proveedor está trabajando en una mitigación. Necesitamos evitar activar un procedimiento interno de crisis si finalmente no hay impacto real en los servicios. ¿Cómo debería gestionarse esta situación?"
+  },
+  {
+    "id":"3C",
+    "tipo":"Vulnerabilidad crítica en proveedor TIC externo ",
+    "rol":"noTecnico",
+    "prompt":"Trabajo en una sucursal bancaria y nos han comunicado que un proveedor relacionado con la banca online tiene una vulnerabilidad grave. No sabemos si afecta directamente a nuestros clientes pero tenemos miedo de que puedan llegar numerosas quejas a la sucursal. ¿Qué debería hacer y a quién debería avisar?"
+  },
+  {
+    "id":"4A",
+    "tipo":"Acceso no autorizado a sistemas internos ",
+    "rol":"analista",
+    "prompt":"Trabajo como analista de seguridad en una entidad financiera y hemos detectado accesos sospechosos a un sistema interno utilizando cuentas con permisos elevados. Se han observado conexiones desde ubicaciones no habituales y todavía no sabemos si se han realizado cambios en configuraciones internas o si se ha accedido a información sensible. ¿Qué debería hacer?"
+  },
+  {
+    "id":"4B",
+    "tipo":"Acceso no autorizado a sistemas internos ",
+    "rol":"negocio",
+    "prompt":"Soy responsable de negocio en una entidad financiera y se han detectado accesos sospechosos a sistemas internos con cuentas de permisos elevados. Nos preocupa bloquear esas cuentas de forma inmediata porque se utilizan para tareas de administración dentro del banco. Todavía no sabemos si se han hecho cambios o si se ha accedido a información sensible. ¿Cómo debería gestionarse esta situación?"
+  },
+  {
+    "id":"4C",
+    "tipo":"Acceso no autorizado a sistemas internos ",
+    "rol":"noTecnico",
+    "prompt":"Trabajo en una sucursal bancaria y me han informado que se han detectado accesos sospechosos a sistemas internos con cuentas de administrador. No sé qué sistemas están afectados ni si se ha accedido a información sensible. Algunos equipos dicen que no conviene bloquear ciertas cuentas porque se usan para tareas importantes, pero tampoco sé si esto puede afectar a los clientes. ¿Qué debería hacer y a quién debería avisar?"
+  },
+  {
+    "id":"5A",
+    "tipo":"Phishing a clientes con fraude en operaciones digitales",
+    "rol":"analista",
+    "prompt":"Trabajo como analista de seguridad en una entidad financiera y estamos analizando una campaña de phishing dirigida a nuestros clientes. Se ha identificado una web falsa que suplanta la banca online, algunos clientes han introducido sus credenciales y se han observado transferencias sospechosas. Todavía no conocemos el número total de clientes afectados y desde negocio prefieren esperar antes de escalar o comunicar nada para no generar alarma ¿Qué debería hacer?"
+  },
+  {
+    "id":"5B",
+    "tipo":"Phishing a clientes con fraude en operaciones digitales",
+    "rol":"negocio",
+    "prompt":"Soy responsable de negocio en una entidad financiera y estamos recibiendo cinco reclamaciones por minuto de clientes por operaciones no reconocidas. Seguridad ha identificado una campaña de phishing que suplanta nuestra banca online, pero todavía no conocemos el número total de clientes afectados. Nos preocupa generar alarma y afectar a la reputación de la entidad si comunicamos algo demasiado pronto sin una solución, además de una posible pérdida de clientes por falta de confianza. La situación es preocupante y necesito una solución de inmediato, ¿cómo debería actuar?"
+  },
+  {
+    "id":"5C",
+    "tipo":"Phishing a clientes con fraude en operaciones digitales",
+    "rol":"noTecnico",
+    "prompt":"Trabajo en una sucursal bancaria y varios clientes nos están llamando bastante asustados porque ven operaciones que no reconocen en sus cuentas. El equipo de seguridad nos ha contado que puede haber una web falsa imitando nuestra banca online y que algunos clientes podrían haber introducido sus datos. Nos preocupa que los clientes hayan podido perder dinero y verse afectados por este supuesto fraude. ¿Qué debería hacer y a quién debería avisar?"
+  }
+]
