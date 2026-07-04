@@ -18,7 +18,7 @@ Los escenarios simulados se encuentran en el fichero `data/data_scenarios.json`
 
 ### Ejecución
 
-python main.py
+`python main.py`
 
 ### Resultados
 
